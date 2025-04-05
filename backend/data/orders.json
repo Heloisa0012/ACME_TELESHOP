@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "cliente": "Heloisa",
+    "produtos": [
+      {
+        "nome": "TV 50\"",
+        "quantidade": 1,
+        "preco": 2500
+      }
+    ],
+    "total": 2500,
+    "formaPagamento": "Cart\u00e3o",
+    "status": "Pendente",
+    "dataPedido": "2024-04-04T10:00:00Z"
+  }
+]

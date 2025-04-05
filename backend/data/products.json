@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nome": "TV 50\"",
+    "descricao": "Smart TV 4K",
+    "preco": 2500,
+    "estoque": 10
+  },
+  {
+    "id": "2",
+    "nome": "Notebook",
+    "descricao": "Notebook i7",
+    "preco": 4500,
+    "estoque": 5
+  }
+]
